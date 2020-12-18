@@ -1,7 +1,9 @@
 # Keylogger
 
-A simple Keylogger written in C++
+![Keylogger](Keylogger.png)
 
-(PLEASE NOTE : CAPS LOCK KEY IS NOT WORKING IN THIS PROGRAM BESIDES CAPS KEY ALL KEY WORKING FINE)
+**A simple Keylogger written in C++**
 
-Author : Vikas Anand
+**(PLEASE NOTE : CAPS LOCK KEY IS NOT WORKING IN THIS PROGRAM BESIDES CAPS KEY ALL KEY WORKING FINE)**
+
+_Author : Vikas Anand_
